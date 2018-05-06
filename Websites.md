@@ -15,6 +15,8 @@
 
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 
+* [某熊的全栈之旅](https://zhuanlan.zhihu.com/wxyyxc1992)
+
 ### 旧时光
 
 * [Nothing replaces hard work!](https://foofish.net/)
