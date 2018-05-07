@@ -47,7 +47,7 @@
 
 ### Java
 
-* [编程语言语法基础与工程实践--Java](https://github.com/wxyyxc1992/ProgrammingLanguage-Series/tree/master/Java)
+* [Java 语法基础与工程实践](https://github.com/wxyyxc1992/ProgrammingLanguage-Series/tree/master/Java)
 
 ### Python
 
