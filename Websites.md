@@ -45,6 +45,10 @@
 
 * [鸟哥的 Linux 私房菜](http://cn.linux.vbird.org/)
 
+### Java
+
+* [编程语言语法基础与工程实践](https://github.com/wxyyxc1992/ProgrammingLanguage-Series/tree/master/Java)
+
 ### Python
 
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
