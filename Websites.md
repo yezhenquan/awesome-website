@@ -33,6 +33,8 @@
 
 * [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
+* [前端代码规范](http://www.lovebxm.com/2017/06/25/web-code-standards/)
+
 * [绿叶学习网](http://www.lvyestudy.com/)
 
 * [学习 CSS 布局](http://zh.learnlayout.com/)
