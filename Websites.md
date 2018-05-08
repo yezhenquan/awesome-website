@@ -48,6 +48,7 @@
 ### Java
 
 * [Java 语法基础与工程实践](https://github.com/wxyyxc1992/ProgrammingLanguage-Series/tree/master/Java)
+* [Java干货集散地](http://www.hollischuang.com/)
 
 ### Python
 
