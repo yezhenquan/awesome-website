@@ -25,6 +25,10 @@
 
 * [卢钧轶](http://cenalulu.github.io/)
 
+### 好用的工具
+
+* [大前端工具集](https://github.com/nieweidong/fetool)
+
 ### Frontend
 
 * [MDN 官方文档](https://developer.mozilla.org/zh-CN/)
