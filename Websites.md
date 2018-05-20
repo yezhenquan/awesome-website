@@ -35,6 +35,8 @@
 
 * [Web 开发基础与工程实践](https://github.com/wxyyxc1992/Web-Development-And-Engineering-Practices)
 
+* [前端工程师手册(]https://www.gitbook.com/book/leohxj/front-end-database)
+
 * [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
 * [前端代码规范](http://www.lovebxm.com/2017/06/25/web-code-standards/)
