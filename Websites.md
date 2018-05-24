@@ -99,6 +99,8 @@
 
 ### 资源集合
 
+* [taobao mirror](https://npm.taobao.org/mirrors/)
+
 * [CodeForge](http://www.codeforge.com/)
 
 * [programcreek](https://www.programcreek.com/)
