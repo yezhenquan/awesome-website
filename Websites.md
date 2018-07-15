@@ -83,6 +83,10 @@
 
 * [Pythoner](http://www.pythoner.com/)
 
+### Web Server
+
+* [Nginx Reources](https://github.com/fcambus/nginx-resources)
+
 ### 运维
 
 * [DigitalOcean DevOps](https://www.digitalocean.com/community/tutorials)
