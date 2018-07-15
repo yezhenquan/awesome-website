@@ -64,13 +64,17 @@
 ### Web Server
 
 * [Nginx Reources](https://github.com/fcambus/nginx-resources)
+
 * [Nginx Beginner Guide](http://nginx.org/en/docs/beginners_guide.html)
+
 * [Openresty](https://openresty.org/cn/)
 
 
 ### 日志工具
 
 * [GoAccess](https://goaccess.io/)
+
+* [LogSwan](https://www.logswan.org/)
 
 ### 运维
 
@@ -91,5 +95,3 @@
 * [开放数据集](https://www.aminer.cn/data-sna)
 
 * [国内开源镜像站点汇总](https://blog.csdn.net/william234/article/details/59540151)
-
-
