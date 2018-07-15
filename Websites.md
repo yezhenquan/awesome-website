@@ -33,17 +33,9 @@
 
 * [MDN 官方文档](https://developer.mozilla.org/zh-CN/)
 
-* [Web 开发基础与工程实践](https://github.com/wxyyxc1992/Web-Development-And-Engineering-Practices)
-
 * [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database)
 
 * [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
-
-* [前端代码规范](http://coderlmn.github.io/code-standards/)
-
-* [绿叶学习网](http://www.lvyestudy.com/)
-
-* [学习 CSS 布局](http://zh.learnlayout.com/)
 
 ### Linux 
 
@@ -57,31 +49,17 @@
 
 ### Java
 
-* [Java 语法基础与工程实践](https://github.com/wxyyxc1992/ProgrammingLanguage-Series/tree/master/Java)
-
-* [Java干货集散地](http://www.hollischuang.com/)
-
 ### Python
 
 * [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
-
-* [Python 2 Module of the week](https://pymotw.com/2/contents.html)
 
 * [Python 3 Module of the week](https://pymotw.com/3/)
 
 * [Python Web Guide](http://python-web-guide.readthedocs.io/zh/latest/)
 
-* [Python Course](https://www.python-course.eu/index.php)
-
 * [董伟明博客](http://www.dongwm.com)
 
-* [雨痕读书笔记](https://github.com/qyuhen/book)
-
 * [Full Stack Python](https://www.fullstackpython.com/)
-
-* [Python 之禅](https://foofish.net/)
-
-* [Pythoner](http://www.pythoner.com/)
 
 ### Web Server
 
@@ -97,12 +75,6 @@
 ### 运维
 
 * [DigitalOcean DevOps](https://www.digitalocean.com/community/tutorials)
-
-* [运维生存时间](http://www.ttlsa.com/)
-
-* [菜鸟运维](https://www.cnyunwei.cc/)
-
-* [Tshare 365](http://tshare365.com/) 
 
 ### Big Data And Machine Learning
 
