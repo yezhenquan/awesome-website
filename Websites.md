@@ -86,6 +86,7 @@
 ### Web Server
 
 * [Nginx Reources](https://github.com/fcambus/nginx-resources)
+* [Nginx Beginner Guide](http://nginx.org/en/docs/beginners_guide.html)
 
 ### 运维
 
