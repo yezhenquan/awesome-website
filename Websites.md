@@ -37,6 +37,8 @@
 
 * [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
 
+* [Google Material icons](https://material.io/tools/icons/?style=baseline)
+
 ### Linux 
 
 * [Linux 快速工具教程](http://linuxtools-rst.readthedocs.io/zh_CN/latest/)
